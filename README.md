@@ -16,7 +16,9 @@ An explainable AI-based skin cancer detection web app using EfficientNetB0, HAM1
 - ## Database Integration
 Supabase PostgreSQL is used to store prediction history including user email, image name, predicted class, confidence score, top predictions, and timestamp.
 
+
 ## Screenshots
+
 ### Home Page
 ![Home Page](Assets/Home%20Page.png)
 
