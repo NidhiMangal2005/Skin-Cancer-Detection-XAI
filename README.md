@@ -18,28 +18,28 @@ Supabase PostgreSQL is used to store prediction history including user email, im
 
 ## Screenshots
 ### Home Page
-![Home Page](assets/Home%20Page.png)
+![Home Page](Assets/Home%20Page.png)
 
 ### Login Sidebar
-![Login Sidebar](assets/Login%20Sidebar.png)
+![Login Sidebar](Assets/Login%20Sidebar.png)
 
 ### New Scan Upload Page
-![New Scan Upload](assets/New%20Scan%20Upload.png)
+![New Scan Upload](Assets/New%20Scan%20Upload.png)
 
 ### Prediction Result with Grad-CAM
-![Prediction Result with Grad-CAM](assets/Prediction%20Result%20GradCam%20(1).png)
+![Prediction Result with Grad-CAM](Assets/Prediction%20Result%20GradCam%20(1).png)
 
 ### Prediction Result with Top Predictions
-![Prediction Result](assets/Prediction%20Result.png)
+![Prediction Result](Assets/Prediction%20Result.png)
 
 ### Patient History Page
-![History Page](assets/History%20Page.png)
+![History Page](Assets/History%20Page.png)
 
 ### Supabase Database Integration
-![Supabase Database](assets/Supabase%20Database.png)
+![Supabase Database](Assets/Supabase%20Database.png)
 
 ### Confusion Matrix
-![Confusion Matrix](assets/Confusion%20Matrix.png)
+![Confusion Matrix](Assets/Confusion%20Matrix.png)
 
 ### GitHub Repository
-![GitHub Repository](assets/Github%20Repo.png)
+![GitHub Repository](Assets/Github%20Repo.png)
