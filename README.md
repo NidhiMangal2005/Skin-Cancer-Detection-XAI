@@ -43,3 +43,12 @@ Supabase PostgreSQL is used to store prediction history including user email, im
 
 ### GitHub Repository
 ![GitHub Repository](Assets/Github%20Repo.png)
+
+### Download PDF Button
+![Download PDF Button](Assets/Download%20PDF%20Button.png)
+
+### Downloaded PDF Report
+![Downloaded PDF Report](Assets/Downloaded%20PDF%20Report.png)
+
+### Updated History Page
+![Updated History Page](Assets/Updated%20History%20page.png)
