@@ -27,7 +27,7 @@ Supabase PostgreSQL is used to store prediction history including user email, im
 ![New Scan Upload](assets/New%20Scan%20Upload.png)
 
 ### Prediction Result with Grad-CAM
-![Prediction Result GradCAM](assets/Prediction%20Result%20GradCam%20(1).png)
+![Prediction Result with Grad-CAM](assets/Prediction%20Result%20GradCam%20(1).png)
 
 ### Prediction Result with Top Predictions
 ![Prediction Result](assets/Prediction%20Result.png)
