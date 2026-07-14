@@ -4,14 +4,17 @@
 # Skin-Cancer-Detection-XAI
 An explainable AI-based skin cancer detection web app using EfficientNetB0, HAM10000 dermoscopic images, and Grad-CAM visualization for transparent lesion classification.
 
-## New Features
-- Patient email-based login
-- Skin lesion image upload
-- Prediction with confidence score
-- Top 3 class probabilities
-- Grad-CAM explainability
-- Supabase database integration
+## Features
+
+- Dermoscopic skin lesion image upload
+- EfficientNetB0-based lesion classification
+- Confidence score and top 3 predictions
+- Grad-CAM explainability heatmap
+- Email-based login demo
 - Patient prediction history dashboard
+- Supabase database integration
+- Downloadable PDF prediction report
+- Streamlit Cloud deployment
 
 - ## Database Integration
 Supabase PostgreSQL is used to store prediction history including user email, image name, predicted class, confidence score, top predictions, and timestamp.
