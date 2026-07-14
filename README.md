@@ -16,6 +16,19 @@ An explainable AI-based skin cancer detection web app using EfficientNetB0, HAM1
 - Downloadable PDF prediction report
 - Streamlit Cloud deployment
 
+- ## Tech Stack
+
+- Python
+- TensorFlow / Keras
+- EfficientNetB0
+- OpenCV
+- Grad-CAM
+- Streamlit
+- Supabase PostgreSQL
+- ReportLab
+- GitHub
+- Streamlit Community Cloud
+
 - ## Database Integration
 Supabase PostgreSQL is used to store prediction history including user email, image name, predicted class, confidence score, top predictions, and timestamp.
 
