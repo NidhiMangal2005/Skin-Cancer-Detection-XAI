@@ -4,3 +4,5 @@ numpy
 pillow
 opencv-python-headless
 matplotlib
+supabase
+pandas
